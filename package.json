@@ -1,0 +1,20 @@
+{
+  "name": "projeto-saas",
+  "version": "1.0.0",
+  "description": "Barbearia",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.0"
+  }
+}
