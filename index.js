@@ -12,7 +12,7 @@ connectToDatabase();
 
 // require("./modules/http");
 
-require("../modules/express");
+require("./modules/express");
 
 // const person = new Person("Alice");
 
